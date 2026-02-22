@@ -53,3 +53,15 @@ Desktop.ini
 
 # Environment variables
 .env
+
+# NVIDIA NeMo Model Weights
+*.nemo
+*.bin
+*.pth
+*.ckpt
+
+# Project-Specific Audio Blobs
+temp_*.wav
+normalized_audio.wav
+processed_audio.wav
+processed_audio.wav.tmp
