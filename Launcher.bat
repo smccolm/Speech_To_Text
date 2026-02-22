@@ -1,0 +1,1 @@
+cmd.exe /K "cd /d E:\STT && call conda activate canary && python app.py"

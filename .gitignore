@@ -1,0 +1,55 @@
+# Python environment
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Byte-compiled / optimization files
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# VS Code settings and workspace files
+.vscode/
+.history/
+*.code-workspace
+
+# Visual Studio project files
+*.sln
+*.vcxproj*
+*.user
+*.ncb
+*.aps
+*.pch
+*.vs/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Audio/video caches / exports
+*.mp3
+*.wav
+*.aac
+*.m4a
+*.flac
+*.ogg
+
+# ffmpeg temp files
+*.tmp
+
+# Environment variables
+.env
