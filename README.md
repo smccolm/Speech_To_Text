@@ -116,3 +116,6 @@ conda activate canary && python app.py
 ------------------------------------------------------------------------
 
 Created for local inference on Windows 11 + RTX 4090.
+
+![icon](./assets/Canary%20Qwen.png)
+
