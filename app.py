@@ -88,7 +88,7 @@ ui = gr.Interface(
     fn=process_and_transcribe,
     inputs=gr.Audio(type="filepath", label="Upload Audio"),
     outputs=[gr.Textbox(label="Clean Transcript"), gr.File(label="Download TXT")],
-    title="Canary 2.5B: Astronomical Mode",
+    title="Canary 2.5B: Overlap-Layout-Consensus (OLC) stitching",
     description="DNA-Assembly v2: Silence-aware slicing + Punctuation-blind stitching.",
     flagging_mode="never"
 )
